@@ -1,0 +1,21 @@
+# Ignore outputs
+outputs/
+*.png
+*.csv
+*.txt
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore environments
+.env/
+.venv/
+*.conda
+*.egg-info/
+*.ipynb_checkpoints
+
+# Optional: ignore system files
+.DS_Store
